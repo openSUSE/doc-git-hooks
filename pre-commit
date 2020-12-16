@@ -1,9 +1,5 @@
 #!/bin/sh
 #
-# To install this file, you need to create a symbolic link inside your
-# .git/hooks directory such as:
-# $ cd .git/hooks && ln -s ../../hooks/pre-commit pre-commit
-#
 # To specify custom xmlformat  config file,
 # export the XML_FORMAT_CFG environment variable
 #
